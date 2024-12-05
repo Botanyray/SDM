@@ -1,6 +1,8 @@
 Scaricate il codice in Python o l’eseguibile Windows qui:
 https://www.moeglich.uni-bayreuth.de/en/fit-o-mat/index.html
 
+Il codice Python va scompresso ed il file .py eseguito in Spyder, alternativamente potete installare direttamente l'eseguibile in Windows che non richiede l'installazione di Python.
+
 Il manuale e video Tutorial si trovano qui:
 https://www.moeglich.uni-bayreuth.de/en/fit-o-mat/index.html#moviestar
 
